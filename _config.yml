@@ -1,0 +1,52 @@
+title: KING403 Compliance
+site_name: KING403 Compliance
+description: Kepercayaan, kepatuhan & brand resmi
+url: https://king403.thecompliance.academy
+baseurl: ""
+lang: id
+theme: null
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+
+official_brand: https://king403.it.com/
+official_support: https://url.apidevel.org/king403-support
+
+theme_bg: #08061a
+
+same_as:
+  - https://king403.it.com/
+  - https://king403.com/
+  - https://aviacommerce.org/
+  - https://apidevel.org/
+  - https://king403resmi.github.io/
+  - https://king403situs.github.io/
+  - https://king403.nekoweb.org/
+  - https://king403.netlify.app/
+  - https://king403.puter.site/
+  - https://king403.codeberg.page/
+  - https://king403.neocities.org/
+  - https://king403.a2sys.ai/
+  - http://king403.abstraction.blog/
+  - https://king403.andi.ac/
+  - https://king403.andytudhope.africa/
+  - https://king403.def.life/
+  - https://king403.dogskool.com/
+  - https://king403.globalways-status.net/
+  - https://king403.jbgoodwin.ae/
+  - https://king403.nomaru.africa/
+  - https://king403.ocell.aero/
+  - https://king403.thecompliance.academy/
+  - https://king403.uafpv.academy/
+  - https://heylink.me/king403.it.com/
+  - https://www.youtube.com/@seosementara5
+  - https://github.com/King403resmi
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .git
+  - .gitignore
